@@ -1,0 +1,5 @@
+Asunto: Sugerencia: exportar reportes a Excel
+
+Buenas, uso el módulo de reportes todos los meses y tengo que copiar las tablas a mano a una planilla.
+Sería genial poder exportar los reportes directamente a Excel o CSV. No es urgente, el sistema funciona
+bien, pero nos ahorraría bastante tiempo. Gracias por el producto, en general me gusta mucho.

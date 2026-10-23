@@ -1,0 +1,6 @@
+Asunto: No puedo iniciar sesión desde ayer
+
+Hola, soy administradora de una pyme y desde ayer a la tarde ningún usuario de mi empresa
+puede iniciar sesión en la aplicación web. Aparece el mensaje "Error 500 al validar credenciales".
+Probé en Chrome y Firefox, con distintas computadoras. Tenemos facturación pendiente y no podemos
+trabajar. Necesitamos una solución urgente, esto nos está haciendo perder ventas.
